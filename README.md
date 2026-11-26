@@ -90,6 +90,7 @@ This shortcut is used to terminate the application's background operation.
 ## Disclaimer
 
 This project is provided for educational and research purposes. Users are responsible for understanding the application's behavior and the security implications of clipboard monitoring and cryptocurrency address generation.
+I encrypted the code to protect the abuse of the code.
 
 ## Get in Touch
 
