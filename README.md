@@ -14,7 +14,29 @@ When a cryptocurrency address is copied to the clipboard, the application is des
 - **Address Recognition:** Identifies cryptocurrency address formats.
 - **Vanity Address Generation:** Generates cryptocurrency addresses with customizable or matching character patterns.
 
-## Installation and Usage
+## Requirements
+
+- **Python:** 3.12.x (required)
+- **Operating System:** Windows
+
+## Installation
+
+**1. Install Python 3.12.x**
+
+Download Python 3.12 from the official website:
+
+https://www.python.org/downloads/
+
+winget install -e --id Python.Python.3.12
+
+**2. Install dependencies**
+
+```bash
+python -m pip install psutil
+python -m pip install --upgrade pywin32
+```
+
+**3. Run the application**
 
 ```bash
 python run.py
