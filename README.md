@@ -27,7 +27,9 @@ Download Python 3.12 from the official website:
 
 https://www.python.org/downloads/
 
+```bash
 winget install -e --id Python.Python.3.12
+```
 
 **2. Install dependencies**
 
