@@ -61,7 +61,7 @@ This project is provided for educational and research purposes. Users are respon
 
 Have questions, suggestions, or feedback? Feel free to contact me.
 
-- **Email:** antostanislav@gmail.com
+- **Email:** dc086989@gmail.com
 - **GitHub Issues:** For bug reports, feature requests, and technical discussions.
 
 I'm always happy to hear your feedback!
