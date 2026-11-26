@@ -56,3 +56,22 @@ This shortcut is used to terminate the application's background operation.
 ## Disclaimer
 
 This project is provided for educational and research purposes. Users are responsible for understanding the application's behavior and the security implications of clipboard monitoring and cryptocurrency address generation.
+
+## Get in Touch
+
+Have questions, suggestions, or feedback? Feel free to contact me.
+
+- **Email:** antostanislav@gmail.com
+- **GitHub Issues:** For bug reports, feature requests, and technical discussions.
+
+I'm always happy to hear your feedback!
+
+## Donations ❤️
+
+If you find this project useful and would like to support its continued development, donations are greatly appreciated.
+
+**USDT (ERC20):**
+
+- **Network:** TRON (TRC-20)
+- **Wallet Address:** `TPpabWDS2C21d8QhzGRohSZDwyFoT3DJ5y`
+
