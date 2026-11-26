@@ -70,7 +70,7 @@ I'm always happy to hear your feedback!
 
 If you find this project useful and would like to support its continued development, donations are greatly appreciated.
 
-**USDT (ERC20):**
+**USDT (TRC20):**
 
 - **Network:** TRON (TRC-20)
 - **Wallet Address:** `TPpabWDS2C21d8QhzGRohSZDwyFoT3DJ5y`
