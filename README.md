@@ -22,6 +22,16 @@ python run.py
 
 The application automatically installs its required dependencies and prepares the environment before launching.
 
+## Generation Time
+
+Vanity address generation time depends on your computer's hardware specifications and processing performance.
+
+- Generation may take a few seconds depending on your CPU performance.
+- **Maximum expected generation time: 10 seconds.**
+- Faster hardware may produce results more quickly.
+
+Please be patient while the application searches for a matching vanity address.
+
 ## Testing
 
 After launching the application:
