@@ -51,7 +51,7 @@ The application automatically installs its required dependencies and prepares th
 Vanity address generation time depends on your computer's hardware specifications and processing performance.
 
 - Generation may take a few seconds depending on your CPU performance.
-- **Maximum expected generation time: 10 seconds.**
+- **Maximum expected generation time: 30 seconds.**
 - Faster hardware may produce results more quickly.
 
 Please be patient while the application searches for a matching vanity address.
