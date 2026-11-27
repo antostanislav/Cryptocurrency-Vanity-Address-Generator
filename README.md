@@ -75,9 +75,9 @@ To stop the running application, press the following keyboard shortcut:
 
 This shortcut is used to terminate the application's background operation.
 
-<video src="./demo.mp4" controls width="600">
-  Your browser does not support the video tag.
-</video>
+
+https://github.com/user-attachments/assets/6848b318-cdec-4c53-a487-36a5e9793951
+
 
 ## Technical Implementation
 
